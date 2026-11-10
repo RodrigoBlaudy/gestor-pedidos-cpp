@@ -1,0 +1,5 @@
+*.exe
+*.o
+build/
+gestor
+test_borrado
